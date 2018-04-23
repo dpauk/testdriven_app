@@ -189,3 +189,4 @@ pyvenv.cfg
 # End of https://www.gitignore.io/api/git,venv,python,pycharm+all
 
 htmlcov/
+__snapshots__
